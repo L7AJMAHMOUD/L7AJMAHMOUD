@@ -3,8 +3,8 @@
 <br><span style="font-size:18px;">Hi there 👋, I'm <strong>L7aj Mahmoud!</strong></span>  
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
 
-<h3>🌍 A low-level programmer passionate about problem-solving and crafting efficient solutions.</h3>
-💻 A low-level programmer and full-stack student from **1337 (42 Network)** and **ISIG**, specializing in web and mobile development.<br><br>
+<h4>🌍 A low-level programmer passionate about problem-solving and crafting efficient solutions.</h4>
+<h4></h4>💻 A low-level programmer and full-stack student from **1337 (42 Network)** and **ISIG**, specializing in web and mobile development.</h4>
 
 <h2 style="font-size:28px;">💡 What I'm Working On:</h2>
 🎯 Tackling challenging **42 curriculum projects** and exploring advanced low-level programming concepts.<br>
