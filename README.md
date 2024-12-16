@@ -1,12 +1,9 @@
-# 💫 <h1 style="font-size:36px;">About Me:</h1>
+# 💫printf("HELLO WORLD !"); 💫<h1 style="font-size:36px;">About Me:</h1>
 <br><span style="font-size:18px;">Hi there 👋, I'm <strong>L7aj Mahmoud!</strong></span>  
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
 
-<h4>🌍 A low-level programmer passionate about problem-solving and crafting efficient solutions.</h4>
-💻 A low-level programmer and full-stack student from 
-![1337 (42 Network)](https://img.shields.io/badge/1337%20(42%20Network)-00FFFF?style=flat&logo=github)
-and ![ISIG](https://img.shields.io/badge/ISIG-00FFFF?style=flat&logo=github), specializing in web and mobile development.
-
+<h4>🌍 A Low-Level Programmer Passionate About Problem-Solving And Crafting Efficient Solutions.</h4>
+<h4>💻 A Low-Level Programmer And Full-Stack Student From [1337 (42 Network)] & [ISIG], Specializing in Web and Mobile Development.</h4>
 
 
 
