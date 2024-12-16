@@ -33,10 +33,9 @@
 <h4>🚀 I Believe " C++ " Is The True " Lord Of Engines. "</h4>
 
 <h2 style="font-size:28px;">🌟 Motto:</h2>
-_"Code is a craft. Each line you write builds the future."_  
-_"The elegance of low-level programming lies in its simplicity and power."_  
-_"Great developers don’t just write code—they solve problems."_  
-<br><br>
+<h4> "Code Is A Craft. Each Line You Write Builds The Future." </h4> 
+<h4>"The Elegance Of Low-Level Programming Lies In Its Simplicity And Power."</h4>
+<h4>"Great Developers Don’t Just Write Code—They Solve Problems."</h4>  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maen-naj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_l7aj_mahmoud) 
