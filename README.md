@@ -19,13 +19,13 @@
 
 <h2 style="font-size:28px;">📚 Skills & Interests:</h2>
 <h3 style="font-size:24px;">Languages :</h3>
-   --- > C - C++ - Python - Java - Visual Basic - JavaScript<br>
+<h4> 🎯 C - C++ - Python - Java - Visual Basic - JavaScript</h4>
 <h3 style="font-size:24px;">Web Technologies:</h3> 
-   --- > HTML - CSS - JavaScript - modern frameworks<br>
+<h4> 🎯 HTML - CSS - JavaScript - modern frameworks</h4>
 <h3 style="font-size:24px;">Tools :</h3>
-   --- > Git - Linux - macOS - Visual Studio Code<br>
+<h4>🎯 Git - Linux - macOS - Visual Studio Code</h4>
 <h3 style="font-size:24px;">Areas of Focus:</h3> 
-   --- > Low-level programming, Web development, and mobile app creation<br><br>
+<h4> 🎯 Low-Level Programming, Web Development, And Mobile App Creation .</h4>
 
 <h2 style="font-size:28px;">🌟 Fun Facts:</h2>
 🧑‍🏫 Known as a **"professor" in low-level programming** by my peers!<br>
