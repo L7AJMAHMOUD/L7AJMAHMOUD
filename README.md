@@ -9,7 +9,7 @@
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
 
 <h4>🌍 A Low-Level Programmer Passionate About Problem-Solving And Crafting Efficient Solutions.</h4>
-<h4>💻 A Low-Level Programmer And Full-Stack Student From "1337 (42 Network) " & " ISIG ", Specializing in Web and Mobile     Development.</h4>
+<h4>💻 A Low-Level Programmer And Full-Stack Student From 1337 (42 Network) & ISIG, Specializing In Web And Mobile     Development.</h4>
 
 
 
@@ -29,13 +29,13 @@
 
 <h2 style="font-size:28px;">✅​ Fun Facts:</h2>
 <h4>🧑‍🏫 Known As a " Professor " In Low-Level Programming By My Peers!</h4>
-<h4>💡 I Admire The Elegance Of " C Programming " And Thank " Dennis Ritchie, Ken Thompson & The Bell Labs Team " For This Creation.</h4>
-<h4>🚀 I Believe " C++ " Is The True " Lord Of Engines. "</h4>
+<h4>💡 I Admire The Elegance Of C Programming, And Thank Dennis Ritchie, Ken Thompson & The Bell Labs Team For This Creation.</h4>
+<h4>🚀 I Believe C++ Is The True " Lord Of Engines. "</h4>
 
 <h2 style="font-size:28px;">🌟 Motto:</h2>
-<h4> "Code Is A Craft. Each Line You Write Builds The Future." </h4> 
-<h4>"The Elegance Of Low-Level Programming Lies In Its Simplicity And Power."</h4>
-<h4>"Great Developers Don’t Just Write Code—They Solve Problems."</h4>  
+<h4> Code Is A Craft. Each Line You Write Builds The Future. </h4> 
+<h4>The Elegance Of Low-Level Programming Lies In Its Simplicity And Power.</h4>
+<h4>"Great Developers Don’t Just Write Code—They Solve Problems.</h4>  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maen-naj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_l7aj_mahmoud) 
