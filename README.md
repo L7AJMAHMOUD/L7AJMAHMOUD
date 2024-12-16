@@ -19,11 +19,6 @@
 💡 I admire the elegance of **C programming** and thank **Dennis Ritchie, Ken Thompson, and the Bell Labs Team** for its creation.<br>
 🚀 I believe **C++** is the true **"lord of engines."**<br><br>
 
-<h2 style="font-size:28px;">💼 Connect With Me:</h2>
-**Discord**: maen-naj<br>
-📧 **Email**: l7aj04@gmail.com<br>
-**Instagram**: _l7aj_mahmoud_<br><br>
-
 <h2 style="font-size:28px;">🌟 Motto:</h2>
 _"Code is a craft. Each line you write builds the future."_  
 _"The elegance of low-level programming lies in its simplicity and power."_  
