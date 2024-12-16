@@ -18,16 +18,16 @@
 <h4>✨ Creating Innovative Low-Level Projects, Designing Websites, And Building Mobile Applications To Solve Real-World Problems.</h4>
 
 <h2 style="font-size:28px;">📚 Skills & Interests:</h2>
-<h3 style="font-size:24px;">Languages :</h3>
+<h3 style="font-size:24px;">📚Languages :</h3>
 <h4> 🎯 C - C++ - Python - Java - Visual Basic - JavaScript</h4>
-<h3 style="font-size:24px;">Web Technologies:</h3> 
+<h3 style="font-size:24px;">🌐​ Web Technologies:</h3> 
 <h4> 🎯 HTML - CSS - JavaScript - modern frameworks</h4>
-<h3 style="font-size:24px;">Tools :</h3>
+<h3 style="font-size:24px;">🛠️ Tools :</h3>
 <h4>🎯 Git - Linux - macOS - Visual Studio Code</h4>
-<h3 style="font-size:24px;">Areas of Focus:</h3> 
+<h3 style="font-size:24px;">🔭​ Areas of Focus:</h3> 
 <h4> 🎯 Low-Level Programming, Web Development, And Mobile App Creation .</h4>
 
-<h2 style="font-size:28px;">🌟 Fun Facts:</h2>
+<h2 style="font-size:28px;">✅​ Fun Facts:</h2>
 <h4>🧑‍🏫 Known As a " Professor " In Low-Level Programming By My Peers!</h4>
 <h4>💡 I Admire The Elegance Of " C Programming " And Thank " Dennis Ritchie, Ken Thompson & The Bell Labs Team " For This Creation.</h4>
 <h4>🚀 I Believe " C++ " Is The True " Lord Of Engines. "</h4>
