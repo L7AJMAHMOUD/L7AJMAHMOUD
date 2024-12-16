@@ -48,4 +48,6 @@ _"Great developers don’t just write code—they solve problems."_
 ![](https://github-contributor-stats.vercel.app/api?username=L7AJMAHMOUD&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=L7AJMAHMOUD&icon=4&color=7)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=L7AJMAHMOUD&label=Profile%20Views&icon=5&pretty=false" />
+</a>
