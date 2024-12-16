@@ -4,9 +4,10 @@
 
 <h4>🌍 A low-level programmer passionate about problem-solving and crafting efficient solutions.</h4>
 <h4>💻 A low-level programmer and full-stack student from 
-    <strong style="color:#FF5733;">1337 (42 Network)</strong> 
-    and <strong style="color:#33C1FF;">ISIG</strong>, specializing in web and mobile development.
+    <strong style="color:cyan;">1337 (42 Network)</strong> 
+    and <strong style="color:cyan;">ISIG</strong>, specializing in web and mobile development.
 </h4>
+
 
 
 <h2 style="font-size:28px;">💡 What I'm Working On:</h2>
