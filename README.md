@@ -9,7 +9,8 @@
 ✨ Creating innovative low-level projects, designing websites, and building mobile applications to solve real-world problems.<br><br>
 
 <h2 style="font-size:28px;">📚 Skills & Interests:</h2>
-**Languages** : C, C++, Python, Java, Visual Basic, JavaScript<br>
+<h1 style="font-size:24px;">Languages :</h1> 
+      C, C++, Python, Java, Visual Basic, JavaScript<br>
 **Web Technologies:** HTML, CSS, JavaScript, and modern frameworks<br>
 **Tools:** Git, Linux (Kali), macOS, Visual Studio Code<br>
 **Areas of Focus:** Low-level programming, web development, and mobile app creation<br><br>
