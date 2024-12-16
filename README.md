@@ -1,10 +1,8 @@
-<p align="center">
-  # 💫printf("HELLO WORLD !"); 💫
-</p>
+# 💫printf("HELLO WORLD !"); 💫<h1 style="font-size:36px;">About Me:</h1>
 
-<p align="center">
-  ## About Me:
-</p>
+
+# 💫About Me :💫<h1 style="font-size:36px;">About Me:</h1>
+
 
 
 <br><span style="font-size:18px;">Hi there 👋, I'm <strong>L7aj Mahmoud!</strong></span>  
