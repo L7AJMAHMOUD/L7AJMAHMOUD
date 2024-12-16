@@ -9,13 +9,13 @@
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake Animation" />
 
 <h4>🌍 A Low-Level Programmer Passionate About Problem-Solving And Crafting Efficient Solutions.</h4>
-<h4>💻 A Low-Level Programmer And Full-Stack Student From [1337 (42 Network)] & [ISIG], Specializing in Web and Mobile Development.</h4>
+<h4>💻 A Low-Level Programmer And Full-Stack Student From "1337 (42 Network) " & " ISIG ", Specializing in Web and Mobile Development.</h4>
 
 
 
 <h2 style="font-size:28px;">💡 What I'm Working On:</h2>
-🎯 Tackling challenging **42 curriculum projects** and exploring advanced low-level programming concepts.<br>
-✨ Creating innovative low-level projects, designing websites, and building mobile applications to solve real-world problems.<br><br>
+<h4>🎯 Tackling Challenging " 42 Curriculum Projects " And Exploring Advanced Low-Level Programming Concepts.</h4>
+<h4>✨ Creating Innovative Low-Level Projects, Designing Websites, And Building Mobile Applications To Solve Real-World Problems.</h4>
 
 <h2 style="font-size:28px;">📚 Skills & Interests:</h2>
 <h3 style="font-size:24px;">Languages :</h3>
