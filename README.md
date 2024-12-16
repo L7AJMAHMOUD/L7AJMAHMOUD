@@ -28,9 +28,9 @@
 <h4> 🎯 Low-Level Programming, Web Development, And Mobile App Creation .</h4>
 
 <h2 style="font-size:28px;">🌟 Fun Facts:</h2>
-🧑‍🏫 Known as a **"professor" in low-level programming** by my peers!<br>
-💡 I admire the elegance of **C programming** and thank **Dennis Ritchie, Ken Thompson, and the Bell Labs Team** for its creation.<br>
-🚀 I believe **C++** is the true **"lord of engines."**<br><br>
+<h1>🧑‍🏫 Known As a " Professor " In Low-Level Programming By My Peers!</h1>
+<h1>💡 I Admire The Elegance Of " C Programming " And Thank " Dennis Ritchie, Ken Thompson & The Bell Labs Team " For This Creation.</h1>
+<h1>🚀 I Believe " C++ " Is The True " Lord Of Engines. "</h1>
 
 <h2 style="font-size:28px;">🌟 Motto:</h2>
 _"Code is a craft. Each line you write builds the future."_  
